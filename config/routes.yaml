@@ -1,0 +1,8 @@
+authentication_token:
+    path: /api/login
+    methods: ['POST']
+# app_members:
+#     path: /list/members
+#     methods: ['GET']
+#     controller: App\Controller\MemberController::members
+    
