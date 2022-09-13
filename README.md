@@ -12,7 +12,7 @@ Requirements: Symfony 5.0.1 , php: 7.2.5
  For installation of the project, you can first: 
 
 
-# Run the project without Docker 
+## Run the project without Docker 
 
 Clone the project: 
 ```
@@ -38,7 +38,7 @@ Clone the project:
 
 Open your browser and navigate to this that url : ```http://127.0.0.1:8000/```
 
-# Run with Docker
+## Run with Docker
 
 To build symfony docker container run that command inside the project root folder
 
