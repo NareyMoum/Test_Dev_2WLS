@@ -14,7 +14,7 @@ Requirements: Symfony 5.01 , php: 7.2.5
 
 # Run the project without Docker 
 
-Clone the project like that: 
+Clone the project: 
 ```
  git clone https://github.com/NareyMoum/Test_Dev_2WLS.git
 ```
