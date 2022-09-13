@@ -5,7 +5,7 @@
 This is is test dev project for simple managing members App.
 
 ```
-Requirements: Symfony 5.01 , php: 7.2.5 
+Requirements: Symfony 5.0.1 , php: 7.2.5 
 ```
 
  
