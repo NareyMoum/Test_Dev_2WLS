@@ -50,3 +50,15 @@ The next step run the container you have just built using Docker
 
 ```docker run -it -p 8000:8000 Test_Dev_2WLS```
 
+
+##Screen Shots:
+
+#API: 
+
+<img width="1274" alt="Capture d’écran 2022-09-13 à 22 45 47" src="https://user-images.githubusercontent.com/33690076/190015244-ce02a64f-2f9c-40a4-ab43-31cc265c08e4.png">
+
+
+#UI Interface:
+
+
+<img width="1274" alt="Capture d’écran 2022-09-13 à 22 46 17" src="https://user-images.githubusercontent.com/33690076/190015297-37b00052-1874-4d68-8146-14552e3ef445.png">
