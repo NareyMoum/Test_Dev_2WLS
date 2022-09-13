@@ -5,14 +5,14 @@
 This is is test dev project for simple managing members App.
 
 ```
-Requirements: Symfony 5.01 , php: 7.2.5 
+Requirements: Symfony 5.0.1 , php: 7.2.5 
 ```
 
  
  For installation of the project, you can first: 
 
 
-# Run the project without Docker 
+## Run the project without Docker 
 
 Clone the project: 
 
@@ -37,9 +37,10 @@ Clone the project:
  Run your local dev server by running that command: ```php -S localhost:8000 -t public/```
 
 
-Open your browser and navigate to this that url : ```http://127.0.0.1:8000/```
+Open your browser and navigate to this that url to test the api endpoints : ```http://127.0.0.1:8000/api```
 
-# Run with Docker
+
+## Run with Docker
 
 To build symfony docker container run that command inside the project root folder
 
