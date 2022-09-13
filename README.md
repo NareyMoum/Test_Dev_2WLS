@@ -5,8 +5,7 @@
 This is is test dev project for simple managing members App.
 
 ```
-Requirements: Symfony 5.01 
-              php: 7.2.5 
+Requirements: Symfony 5.01 , php: 7.2.5 
 ```
 
  
@@ -48,12 +47,4 @@ To build symfony docker container run that command inside the project root folde
 The next step run the container you have just built using Docker
 
 ```docker run -it -p 8000:8000 Test_Dev_2WLS"
-
-
-
-
-
- 
-
-
 
