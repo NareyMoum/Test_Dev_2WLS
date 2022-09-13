@@ -17,4 +17,7 @@ COPY . /var/www
  
 WORKDIR /var/www
  
-CMD ["apache2-foreground"]
+ EXPOSE 8000
+ 
+CMD php bin/console server:run 0.0.0.0:8000
+
